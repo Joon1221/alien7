@@ -19,10 +19,10 @@ Mentor: Samil Chai
 Work Period
 -----------
 
-Start Date: 2018-03-11
+Start Date: 2016-12-04
 
 
-End Date: 2019-01-13
+End Date: 2017-03-17
 
 
 Privacy
