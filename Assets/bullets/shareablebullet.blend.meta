@@ -1,0 +1,239 @@
+fileFormatVersion: 2
+guid: c556aa219fd9c4cb5851cfa1cc9cc83a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle
+    100002: Circle_001
+    100004: Circle_002
+    100006: Circle_003
+    100008: Circle_004
+    100010: Cylinder
+    100012: Cylinder_001
+    100014: Cylinder_002
+    100016: Cylinder_003
+    100018: Cylinder_004
+    100020: Cylinder_005
+    100022: Cylinder_005_MeshPart0
+    100024: Cylinder_005_MeshPart1
+    100026: Cylinder_006
+    100028: Cylinder_006_MeshPart0
+    100030: Cylinder_006_MeshPart1
+    100032: Cylinder_MeshPart0
+    100034: Cylinder_MeshPart1
+    100036: Plane
+    100038: Plane_001
+    100040: Plane_003
+    100042: //RootNode
+    100044: Sphere
+    100046: Sphere_001
+    100048: Sphere_002
+    400000: Circle
+    400002: Circle_001
+    400004: Circle_002
+    400006: Circle_003
+    400008: Circle_004
+    400010: Cylinder
+    400012: Cylinder_001
+    400014: Cylinder_002
+    400016: Cylinder_003
+    400018: Cylinder_004
+    400020: Cylinder_005
+    400022: Cylinder_005_MeshPart0
+    400024: Cylinder_005_MeshPart1
+    400026: Cylinder_006
+    400028: Cylinder_006_MeshPart0
+    400030: Cylinder_006_MeshPart1
+    400032: Cylinder_MeshPart0
+    400034: Cylinder_MeshPart1
+    400036: Plane
+    400038: Plane_001
+    400040: Plane_003
+    400042: //RootNode
+    400044: Sphere
+    400046: Sphere_001
+    400048: Sphere_002
+    2300000: Circle
+    2300002: Circle_001
+    2300004: Circle_002
+    2300006: Circle_003
+    2300008: Circle_004
+    2300010: Cylinder_001
+    2300012: Cylinder_002
+    2300014: Cylinder_003
+    2300016: Cylinder_004
+    2300018: Cylinder_005_MeshPart0
+    2300020: Cylinder_005_MeshPart1
+    2300022: Cylinder_006_MeshPart0
+    2300024: Cylinder_006_MeshPart1
+    2300026: Cylinder_MeshPart0
+    2300028: Cylinder_MeshPart1
+    2300030: Plane
+    2300032: Plane_001
+    2300034: Plane_003
+    2300036: Sphere
+    2300038: Sphere_001
+    2300040: Sphere_002
+    3300000: Circle
+    3300002: Circle_001
+    3300004: Circle_002
+    3300006: Circle_003
+    3300008: Circle_004
+    3300010: Cylinder_001
+    3300012: Cylinder_002
+    3300014: Cylinder_003
+    3300016: Cylinder_004
+    3300018: Cylinder_005_MeshPart0
+    3300020: Cylinder_005_MeshPart1
+    3300022: Cylinder_006_MeshPart0
+    3300024: Cylinder_006_MeshPart1
+    3300026: Cylinder_MeshPart0
+    3300028: Cylinder_MeshPart1
+    3300030: Plane
+    3300032: Plane_001
+    3300034: Plane_003
+    3300036: Sphere
+    3300038: Sphere_001
+    3300040: Sphere_002
+    4300000: Sphere_001
+    4300002: Cylinder_005_MeshPart0
+    4300004: Cylinder_005_MeshPart1
+    4300006: Plane
+    4300008: Circle_001
+    4300010: Circle_002
+    4300012: Circle_003
+    4300014: Circle_004
+    4300016: Circle
+    4300018: Cylinder_001
+    4300020: Cylinder_002
+    4300022: Cylinder_003
+    4300024: Cylinder_004
+    4300026: Cylinder_006_MeshPart0
+    4300028: Cylinder_006_MeshPart1
+    4300030: Cylinder_MeshPart0
+    4300032: Cylinder_MeshPart1
+    4300034: Plane_001
+    4300036: Plane_003
+    4300038: Sphere_002
+    4300040: Sphere
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_000
+    second: {fileID: 2100000, guid: 2d71814d8339a43f3bbd52e8143ae4ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: d8910e7ec61e8446b80e699cfac80a6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: 3d067c271118d465a80e619d00f5c25a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 23f515fac922f4c34bc665def3cd1839, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: e612a1e46fee440abb7354e21058b425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: bb31e52654bb54b52a48df081576bb11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: 985ba76db0fad4601aeb8d83ec3482fb, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
